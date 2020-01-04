@@ -75,73 +75,41 @@ Array
 
 
 
-| Sufix     | Country     | City     |
-| :------------- | :------------- | :------------- |
-|.BA|Argentina|Buenos Aires Stock Exchange (BYMA)|
-|.VI|Austria|Vienna Stock Exchange|
-|.AX|Australia|Australian Stock Exchange (ASX)|
-|.BR|Belgium|Euronext Brussels|
-|.SA|Brazil|Sao Paolo Stock Exchange (BOVESPA)|
-|.CN|Canada|Canadian Securities Exchange|
-|.NE|Canada|NEO Exchange|
-|.TO|Canada|Toronto Stock Exchange (TSX)|
-|.V|Canada|TSX Venture Exchange (TSXV)|
-|.SN|Chile|Santiago Stock Exchange|
-|.SS|China|Shanghai Stock Exchange|
-|.SZ|China|Shenzhen Stock Exchange|
-|.PR|Czech Republic|Prague Stock Exchange Index|
-|.CO|Denmark|Nasdaq OMX Copenhagen|
-|.CA|Egypt|Egyptian Exchange Index (EGID)|
-|.TL|Estonia|Nasdaq OMX Tallinn|
-|.HE|Finland|Nasdaq OMX Helsinki|
-|.NX|France|Euronext|
-|.PA|France|Euronext Paris|
-|.BE|Germany|Berlin Stock Exchange|
-|.BM|Germany|Bremen Stock Exchange|
-|.DU|Germany|Dusseldorf Stock Exchange|
-|.F|Germany|Frankfurt Stock Exchange|
-|.HM|Germany|Hamburg Stock Exchange|
-|.HA|Germany|Hanover Stock Exchange|
-|.MU|Germany|Munich Stock Exchange|
-|.SG|Germany|Stuttgart Stock Exchange|
-|.DE|Germany|Deutsche Boerse XETRA|
-|.AT|Greece|Athens Stock Exchange (ATHEX)|
-|.HK|Hong Kong|Hong Kong Stock Exchange (HKEX)|
-|.BD|Hungary|Budapest Stock Exchange|
-|.IC|Iceland|Nasdaq OMX Iceland|
+| Sufix     | Country     | City     | Sufix     | Country     | City     |
+| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
+|.BA|Argentina|Buenos Aires Stock Exchange (BYMA)|.NS|India|National Stock Exchange of India|
+|.VI|Austria|Vienna Stock Exchange|.JK|Indonesia|Indonesia Stock Exchange (IDX)|
+|.AX|Australia|Australian Stock Exchange (ASX)|.IR|Ireland|Euronext Dublin|
+|.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv Stock Exchange|
+|.SA|Brazil|Sao Paolo Stock Exchange (BOVESPA)|.TI|Italy|EuroTLX|
+|.CN|Canada|Canadian Securities Exchange|.MI|Italy|Italian Stock Exchange|
+|.NE|Canada|NEO Exchange|.T|Japan|Tokyo Stock Exchange|
+|.TO|Canada|Toronto Stock Exchange (TSX)|.RG|Latvia|Nasdaq OMX Riga|
+|.V|Canada|TSX Venture Exchange (TSXV)|.VS|Lithuania|Nasdaq OMX Vilnius|
+|.SN|Chile|Santiago Stock Exchange|.KL|Malaysia|Malaysian Stock Exchange|
+|.SS|China|Shanghai Stock Exchange|.MX|Mexico|Mexico Stock Exchange (BMV)|
+|.SZ|China|Shenzhen Stock Exchange|.AS|Netherlands|Euronext Amsterdam|
+|.PR|Czech Republic|Prague Stock Exchange Index|.NZ|New Zealand|New Zealand Stock Exchange (NZX)|
+|.CO|Denmark|Nasdaq OMX Copenhagen|.OL|Norway|Oslo Stock Exchange|
+|.CA|Egypt|Egyptian Exchange Index (EGID)|.LS|Portugal|Euronext Lisbon|
+|.TL|Estonia|Nasdaq OMX Tallinn|.QA|Qatar|Qatar Stock Exchange|
+|.HE|Finland|Nasdaq OMX Helsinki|.ME|Russia|Moscow Exchange (MOEX)|
+|.NX|France|Euronext|.SI|Singapore|Singapore Stock Exchange (SGX)|
+|.PA|France|Euronext Paris|.JO|South Africa|Johannesburg Stock Exchange|
+|.BE|Germany|Berlin Stock Exchange|.KS|South Korea|Korea Stock Exchange|
+|.BM|Germany|Bremen Stock Exchange|.KQ|South Korea|KOSDAQ|
+|.DU|Germany|Dusseldorf Stock Exchange|.MC|Spain|Madrid SE C.A.T.S.|
+|.F|Germany|Frankfurt Stock Exchange|.SAU|Saudi Arabia|Saudi Stock Exchange (Tadawul)|
+|.HM|Germany|Hamburg Stock Exchange|.ST|Sweden|Nasdaq OMX Stockholm|
+|.HA|Germany|Hanover Stock Exchange|.SW|Switzerland|Swiss Exchange (SIX)|
+|.MU|Germany|Munich Stock Exchange|.TWO|Taiwan|Taiwan OTC Exchange|
+|.SG|Germany|Stuttgart Stock Exchange|.TW|Taiwan|Taiwan Stock Exchange (TWSE)|
+|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand|Stock Exchange of Thailand (SET)|
+|.AT|Greece|Athens Stock Exchange (ATHEX)|.IS|Turkey|Borsa İstanbul|
+|.HK|Hong Kong|Hong Kong Stock Exchange (HKEX)|.L|United Kingdom|London Stock Exchange|
+|.BD|Hungary|Budapest Stock Exchange|.IL|United Kingdom|London Stock Exchange|
+|.IC|Iceland|Nasdaq OMX Iceland|.CR|Venezuela|Caracas Stock Exchange|
 |.BO|India|Bombay Stock Exchange|
-|.NS|India|National Stock Exchange of India|
-|.JK|Indonesia|Indonesia Stock Exchange (IDX)|
-|.IR|Ireland|Euronext Dublin|
-|.TA|Israel|Tel Aviv Stock Exchange|
-|.TI|Italy|EuroTLX|
-|.MI|Italy|Italian Stock Exchange|
-|.T|Japan|Tokyo Stock Exchange|
-|.RG|Latvia|Nasdaq OMX Riga|
-|.VS|Lithuania|Nasdaq OMX Vilnius|
-|.KL|Malaysia|Malaysian Stock Exchange|
-|.MX|Mexico|Mexico Stock Exchange (BMV)|
-|.AS|Netherlands|Euronext Amsterdam|
-|.NZ|New Zealand|New Zealand Stock Exchange (NZX)|
-|.OL|Norway|Oslo Stock Exchange|
-|.LS|Portugal|Euronext Lisbon|
-|.QA|Qatar|Qatar Stock Exchange|
-|.ME|Russia|Moscow Exchange (MOEX)|
-|.SI|Singapore|Singapore Stock Exchange (SGX)|
-|.JO|South Africa|Johannesburg Stock Exchange|
-|.KS|South Korea|Korea Stock Exchange|
-|.KQ|South Korea|KOSDAQ|
-|.MC|Spain|Madrid SE C.A.T.S.|
-|.SAU|Saudi Arabia|Saudi Stock Exchange (Tadawul)|
-|.ST|Sweden|Nasdaq OMX Stockholm|
-|.SW|Switzerland|Swiss Exchange (SIX)|
-|.TWO|Taiwan|Taiwan OTC Exchange|
-|.TW|Taiwan|Taiwan Stock Exchange (TWSE)|
-|.BK|Thailand|Stock Exchange of Thailand (SET)|
-|.IS|Turkey|Borsa İstanbul|
-|.L|United Kingdom|London Stock Exchange|
-|.IL|United Kingdom|London Stock Exchange|
-|.CR|Venezuela|Caracas Stock Exchange|
 
 
 
