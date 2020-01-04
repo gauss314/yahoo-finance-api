@@ -75,41 +75,41 @@ Array
 
 ## All Exchanges
 
-| Sufix     | Country     | City     | Sufix     | Country     | City     |
+|<sub>Sufix</sub>|<sub>Country</sub>|<sub>City</sub>|<sub>Sufix</sub>|<sub>Country</sub>|<sub>City</sub>|
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
 |<sub>.BA</sub>|<sub>Argentina</sub>|<sub>Buenos Aires (BYMA)</sub>|<sub>.NS</sub>|<sub>India</sub>|<sub>National of India</sub>|
 |<sub>.VI</sub>|<sub>Austria</sub>|<sub>Vienna</sub>|<sub>.JK</sub>|<sub>Indonesia</sub>|<sub>Indonesia (IDX)</sub>|
-|.AX|Australia|Australian (ASX)|.IR|Ireland|Euronext Dublin|
-|.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv|
-|.SA|Brazil|Sao Paolo (BOVESPA)|.TI|Italy|EuroTLX|
-|.CN|Canada|Canadian Securities|.MI|Italy|Italian|
-|.NE|Canada|NEO Exchange|.T|Japan|Tokyo|
-|.TO|Canada|Toronto (TSX)|.RG|Latvia|Nasdaq OMX Riga|
-|.V|Canada|TSX Venture Exchange (TSXV)|.VS|Lithuania|Nasdaq OMX Vilnius|
-|.SN|Chile|Santiago|.KL|Malaysia|Malaysian|
-|.SS|China|Shanghai|.MX|Mexico|Mexico (BMV)|
-|.SZ|China|Shenzhen|.AS|Netherlands|Euronext Amsterdam|
-|.PR|Czech Republic|Prague Index|.NZ|New Zealand|New Zealand (NZX)|
-|.CO|Denmark|Nasdaq OMX Copenhagen|.OL|Norway|Oslo|
-|.CA|Egypt|Egyptian Index (EGID)|.LS|Portugal|Euronext Lisbon|
-|.TL|Estonia|Nasdaq OMX Tallinn|.QA|Qatar|Qatar|
-|.HE|Finland|Nasdaq OMX Helsinki|.ME|Russia|Moscow Exchange (MOEX)|
-|.NX|France|Euronext|.SI|Singapore|Singapore (SGX)|
-|.PA|France|Euronext Paris|.JO|South Africa|Johannesburg|
-|.BE|Germany|Berlin|.KS|South Korea|Korea|
-|.BM|Germany|Bremen|.KQ|South Korea|KOSDAQ|
-|.DU|Germany|Dusseldorf|.MC|Spain|Madrid SE C.A.T.S.|
-|.F|Germany|Frankfurt|.SAU|Saudi Arabia|Saudi (Tadawul)|
-|.HM|Germany|Hamburg|.ST|Sweden|Nasdaq OMX Stockholm|
-|.HA|Germany|Hanover|.SW|Switzerland|Swiss Exchange (SIX)|
-|.MU|Germany|Munich|.TWO|Taiwan|Taiwan OTC Exchange|
-|.SG|Germany|Stuttgart|.TW|Taiwan|Taiwan (TWSE)|
-|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand (SET)|
-|.AT|Greece|Athens (ATHEX)|.IS|Turkey|Borsa İstanbul|
-|.HK|Hong Kong|Hong Kong (HKEX)|.L|United Kingdom|London|
-|.BD|Hungary|Budapest|.IL|United Kingdom|London|
-|.IC|Iceland|Nasdaq OMX Iceland|.CR|Venezuela|Caracas|
-|.BO|India|Bombay|
+|<sub>.AX</sub>|<sub>Australia</sub>|<sub>Australian (ASX)</sub>|<sub>.IR</sub>|<sub>Ireland</sub>|<sub>Euronext Dublin</sub>|
+|<sub>.BR</sub>|<sub>Belgium</sub>|<sub>Euronext Brussels</sub>|<sub>.TA</sub>|<sub>Israel</sub>|<sub>Tel Aviv</sub>|
+|<sub>.SA</sub>|<sub>Brazil</sub>|<sub>Sao Paolo (BOVESPA)</sub>|<sub>.TI</sub>|<sub>Italy</sub>|<sub>EuroTLX</sub>|
+|<sub>.CN</sub>|<sub>Canada</sub>|<sub>Canadian Securities</sub>|<sub>.MI</sub>|<sub>Italy</sub>|<sub>Italian</sub>|
+|<sub>.NE</sub>|<sub>Canada</sub>|<sub>NEO Exchange</sub>|<sub>.T</sub>|<sub>Japan</sub>|<sub>Tokyo</sub>|
+|<sub>.TO</sub>|<sub>Canada</sub>|<sub>Toronto (TSX)</sub>|<sub>.RG</sub>|<sub>Latvia</sub>|<sub>Nasdaq OMX Riga</sub>|
+|<sub>.V</sub>|<sub>Canada</sub>|<sub>TSX Venture Exchange (TSXV)</sub>|<sub>.VS</sub>|<sub>Lithuania</sub>|<sub>Nasdaq OMX Vilnius</sub>|
+|<sub>.SN</sub>|<sub>Chile</sub>|<sub>Santiago</sub>|<sub>.KL</sub>|<sub>Malaysia</sub>|<sub>Malaysian</sub>|
+|<sub>.SS</sub>|<sub>China</sub>|<sub>Shanghai</sub>|<sub>.MX</sub>|<sub>Mexico</sub>|<sub>Mexico (BMV)</sub>|
+|<sub>.SZ</sub>|<sub>China</sub>|<sub>Shenzhen</sub>|<sub>.AS</sub>|<sub>Netherlands</sub>|<sub>Euronext Amsterdam</sub>|
+|<sub>.PR</sub>|<sub>Czech Republic</sub>|<sub>Prague Index</sub>|<sub>.NZ</sub>|<sub>New Zealand</sub>|<sub>New Zealand (NZX)</sub>|
+|<sub>.CO</sub>|<sub>Denmark</sub>|<sub>Nasdaq OMX Copenhagen</sub>|<sub>.OL</sub>|<sub>Norway</sub>|<sub>Oslo</sub>|
+|<sub>.CA</sub>|<sub>Egypt</sub>|<sub>Egyptian Index (EGID)</sub>|<sub>.LS</sub>|<sub>Portugal</sub>|<sub>Euronext Lisbon</sub>|
+|<sub>.TL</sub>|<sub>Estonia</sub>|<sub>Nasdaq OMX Tallinn</sub>|<sub>.QA</sub>|<sub>Qatar</sub>|<sub>Qatar</sub>|
+|<sub>.HE</sub>|<sub>Finland</sub>|<sub>Nasdaq OMX Helsinki</sub>|<sub>.ME</sub>|<sub>Russia</sub>|<sub>Moscow Exchange (MOEX)</sub>|
+|<sub>.NX</sub>|<sub>France</sub>|<sub>Euronext</sub>|<sub>.SI</sub>|<sub>Singapore</sub>|<sub>Singapore (SGX)</sub>|
+|<sub>.PA</sub>|<sub>France</sub>|<sub>Euronext Paris</sub>|<sub>.JO</sub>|<sub>South Africa</sub>|<sub>Johannesburg</sub>|
+|<sub>.BE</sub>|<sub>Germany</sub>|<sub>Berlin</sub>|<sub>.KS</sub>|<sub>South Korea</sub>|<sub>Korea</sub>|
+|<sub>.BM</sub>|<sub>Germany</sub>|<sub>Bremen</sub>|<sub>.KQ</sub>|<sub>South Korea</sub>|<sub>KOSDAQ</sub>|
+|<sub>.DU</sub>|<sub>Germany</sub>|<sub>Dusseldorf</sub>|<sub>.MC</sub>|<sub>Spain</sub>|<sub>Madrid SE C.A.T.S.</sub>|
+|<sub>.F</sub>|<sub>Germany</sub>|<sub>Frankfurt</sub>|<sub>.SAU</sub>|<sub>Saudi Arabia</sub>|<sub>Saudi (Tadawul)</sub>|
+|<sub>.HM</sub>|<sub>Germany</sub>|<sub>Hamburg</sub>|<sub>.ST</sub>|<sub>Sweden</sub>|<sub>Nasdaq OMX Stockholm</sub>|
+|<sub>.HA</sub>|<sub>Germany</sub>|<sub>Hanover</sub>|<sub>.SW</sub>|<sub>Switzerland</sub>|<sub>Swiss Exchange (SIX)</sub>|
+|<sub>.MU</sub>|<sub>Germany</sub>|<sub>Munich</sub>|<sub>.TWO</sub>|<sub>Taiwan</sub>|<sub>Taiwan OTC Exchange</sub>|
+|<sub>.SG</sub>|<sub>Germany</sub>|<sub>Stuttgart</sub>|<sub>.TW</sub>|<sub>Taiwan</sub>|<sub>Taiwan (TWSE)</sub>|
+|<sub>.DE</sub>|<sub>Germany</sub>|<sub>Deutsche Boerse XETRA</sub>|<sub>.BK</sub>|<sub>Thailand (SET)</sub>|
+|<sub>.AT</sub>|<sub>Greece</sub>|<sub>Athens (ATHEX)</sub>|<sub>.IS</sub>|<sub>Turkey</sub>|<sub>Borsa İstanbul</sub>|
+|<sub>.HK</sub>|<sub>Hong Kong</sub>|<sub>Hong Kong (HKEX)</sub>|<sub>.L</sub>|<sub>United Kingdom</sub>|<sub>London</sub>|
+|<sub>.BD</sub>|<sub>Hungary</sub>|<sub>Budapest</sub>|<sub>.IL</sub>|<sub>United Kingdom</sub>|<sub>London</sub>|
+|<sub>.IC</sub>|<sub>Iceland</sub>|<sub>Nasdaq OMX Iceland</sub>|<sub>.CR</sub>|<sub>Venezuela</sub>|<sub>Caracas</sub>|
+|<sub>.BO</sub>|<sub>India</sub>|<sub>Bombay|
 
 
 <br>
