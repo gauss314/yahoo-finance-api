@@ -73,8 +73,11 @@ Array
 ```
 
 <table>
+
   <tr>
+
     <td>
+
     .BA -> Argentina -> Buenos Aires Stock Exchange (BYMA)
     .VI -> Austria -> Vienna Stock Exchange
     .AX -> Australia -> Australian Stock Exchange (ASX)
@@ -96,9 +99,11 @@ Array
     .PA -> France -> Euronext Paris
     .BE -> Germany -> Berlin Stock Exchange
     .BM -> Germany -> Bremen Stock Exchange
+
     </td>
 
     <td>
+
     .DU -> Germany -> Dusseldorf Stock Exchange
     .F  -> Germany -> Frankfurt Stock Exchange
     .HM -> Germany -> Hamburg Stock Exchange
@@ -141,8 +146,11 @@ Array
     .L  -> United Kingdom -> London Stock Exchange
     .IL -> United Kingdom -> London Stock Exchange
     .CR -> Venezuela -> Caracas Stock Exchange
+
     </td>
+
   </tr>
+
 </table>
 
 
