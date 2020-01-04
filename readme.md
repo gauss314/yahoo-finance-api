@@ -1,7 +1,7 @@
 # Yahoo Finance non oficial SDK
 <p align="center">
-<a href="https://packagist.org/packages/gauss314/yahoo_finance"><img src="https://poser.pugx.org/gauss314/yahoo_finance/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/gauss314/yahoo_finance"><img src="https://poser.pugx.org/gauss314/yahoo_finance/license" alt="License"></a>
+<a href="https://packagist.org/packages/floda/yahoo_finance"><img src="https://poser.pugx.org/floda/yahoo_finance/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/floda/yahoo_finance"><img src="https://poser.pugx.org/floda/yahoo_finance/license" alt="License"></a>
 </p>
 
 Since YQL APIs have been discontinued in November 2017, this client is using non-official API endpoints for quotes, search and historical data.
