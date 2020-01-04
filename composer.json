@@ -1,0 +1,14 @@
+{
+    "name": "floda/yahoo_finance",
+    "description": "Yahoo Finance market data",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "scheb/yahoo-finance-api": "dev-master"
+    },
+    "autoload": {
+      "psr-4": {
+        "gauss314\\yahoo_finance\\": "src/"
+      }
+    }
+}
