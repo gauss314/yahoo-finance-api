@@ -82,7 +82,7 @@ Array
 |.AX|Australia|Australian (ASX)|.IR|Ireland|Euronext Dublin|
 |.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv|
 |.SA|Brazil|Sao Paolo (BOVESPA)|.TI|Italy|EuroTLX|
-|.CN|Canada|Canadian Securities Exchange|.MI|Italy|Italian|
+|.CN|Canada|Canadian Securities|.MI|Italy|Italian|
 |.NE|Canada|NEO Exchange|.T|Japan|Tokyo|
 |.TO|Canada|Toronto (TSX)|.RG|Latvia|Nasdaq OMX Riga|
 |.V|Canada|TSX Venture Exchange (TSXV)|.VS|Lithuania|Nasdaq OMX Vilnius|
@@ -91,7 +91,7 @@ Array
 |.SZ|China|Shenzhen|.AS|Netherlands|Euronext Amsterdam|
 |.PR|Czech Republic|Prague Index|.NZ|New Zealand|New Zealand (NZX)|
 |.CO|Denmark|Nasdaq OMX Copenhagen|.OL|Norway|Oslo|
-|.CA|Egypt|Egyptian Exchange Index (EGID)|.LS|Portugal|Euronext Lisbon|
+|.CA|Egypt|Egyptian Index (EGID)|.LS|Portugal|Euronext Lisbon|
 |.TL|Estonia|Nasdaq OMX Tallinn|.QA|Qatar|Qatar|
 |.HE|Finland|Nasdaq OMX Helsinki|.ME|Russia|Moscow Exchange (MOEX)|
 |.NX|France|Euronext|.SI|Singapore|Singapore (SGX)|
@@ -104,7 +104,7 @@ Array
 |.HA|Germany|Hanover|.SW|Switzerland|Swiss Exchange (SIX)|
 |.MU|Germany|Munich|.TWO|Taiwan|Taiwan OTC Exchange|
 |.SG|Germany|Stuttgart|.TW|Taiwan|Taiwan (TWSE)|
-|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand of Thailand (SET)|
+|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand (SET)|
 |.AT|Greece|Athens (ATHEX)|.IS|Turkey|Borsa İstanbul|
 |.HK|Hong Kong|Hong Kong (HKEX)|.L|United Kingdom|London|
 |.BD|Hungary|Budapest|.IL|United Kingdom|London|
