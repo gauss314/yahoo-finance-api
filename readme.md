@@ -73,9 +73,7 @@ Array
 
 <br>
 
-Exchanges
-
-<br>
+## All Exchanges
 
 | Sufix     | Country     | City     | Sufix     | Country     | City     |
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
@@ -118,9 +116,6 @@ Exchanges
 
 ## FOREX PAIRS
 
-<br>
-
-
 ```php
 <?php
 
@@ -147,10 +142,7 @@ Array
 
 <br>
 
-## QUOTES & Entra Data
-
-<br>
-
+## Quote, Order Book, AfterMarket Prices, Financial & Stats
 
 ```php
 <?php
@@ -221,10 +213,7 @@ Array
 
 <br>
 
-## Contracts Expiration Dates
-
-<br>
-
+## Symbol - Expiration Dates
 
 ```php
 <?php
@@ -258,10 +247,7 @@ Array
 
 <br>
 
-## Contracts - Option  Chain
-
-<br>
-
+## Symbol - Expiration - Option Chain
 
 ```php
 <?php
