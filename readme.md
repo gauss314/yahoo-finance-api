@@ -77,39 +77,39 @@ Array
 
 | Sufix     | Country     | City     | Sufix     | Country     | City     |
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
-|.BA|Argentina|Buenos Aires Stock Exchange (BYMA)|.NS|India|National Stock Exchange of India|
-|.VI|Austria|Vienna Stock Exchange|.JK|Indonesia|Indonesia Stock Exchange (IDX)|
-|.AX|Australia|Australian Stock Exchange (ASX)|.IR|Ireland|Euronext Dublin|
-|.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv Stock Exchange|
-|.SA|Brazil|Sao Paolo Stock Exchange (BOVESPA)|.TI|Italy|EuroTLX|
-|.CN|Canada|Canadian Securities Exchange|.MI|Italy|Italian Stock Exchange|
-|.NE|Canada|NEO Exchange|.T|Japan|Tokyo Stock Exchange|
-|.TO|Canada|Toronto Stock Exchange (TSX)|.RG|Latvia|Nasdaq OMX Riga|
+|.BA|Argentina|Buenos Aires (BYMA)|.NS|India|National of India|
+|.VI|Austria|Vienna|.JK|Indonesia|Indonesia (IDX)|
+|.AX|Australia|Australian (ASX)|.IR|Ireland|Euronext Dublin|
+|.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv|
+|.SA|Brazil|Sao Paolo (BOVESPA)|.TI|Italy|EuroTLX|
+|.CN|Canada|Canadian Securities Exchange|.MI|Italy|Italian|
+|.NE|Canada|NEO Exchange|.T|Japan|Tokyo|
+|.TO|Canada|Toronto (TSX)|.RG|Latvia|Nasdaq OMX Riga|
 |.V|Canada|TSX Venture Exchange (TSXV)|.VS|Lithuania|Nasdaq OMX Vilnius|
-|.SN|Chile|Santiago Stock Exchange|.KL|Malaysia|Malaysian Stock Exchange|
-|.SS|China|Shanghai Stock Exchange|.MX|Mexico|Mexico Stock Exchange (BMV)|
-|.SZ|China|Shenzhen Stock Exchange|.AS|Netherlands|Euronext Amsterdam|
-|.PR|Czech Republic|Prague Stock Exchange Index|.NZ|New Zealand|New Zealand Stock Exchange (NZX)|
-|.CO|Denmark|Nasdaq OMX Copenhagen|.OL|Norway|Oslo Stock Exchange|
+|.SN|Chile|Santiago|.KL|Malaysia|Malaysian|
+|.SS|China|Shanghai|.MX|Mexico|Mexico (BMV)|
+|.SZ|China|Shenzhen|.AS|Netherlands|Euronext Amsterdam|
+|.PR|Czech Republic|Prague Index|.NZ|New Zealand|New Zealand (NZX)|
+|.CO|Denmark|Nasdaq OMX Copenhagen|.OL|Norway|Oslo|
 |.CA|Egypt|Egyptian Exchange Index (EGID)|.LS|Portugal|Euronext Lisbon|
-|.TL|Estonia|Nasdaq OMX Tallinn|.QA|Qatar|Qatar Stock Exchange|
+|.TL|Estonia|Nasdaq OMX Tallinn|.QA|Qatar|Qatar|
 |.HE|Finland|Nasdaq OMX Helsinki|.ME|Russia|Moscow Exchange (MOEX)|
-|.NX|France|Euronext|.SI|Singapore|Singapore Stock Exchange (SGX)|
-|.PA|France|Euronext Paris|.JO|South Africa|Johannesburg Stock Exchange|
-|.BE|Germany|Berlin Stock Exchange|.KS|South Korea|Korea Stock Exchange|
-|.BM|Germany|Bremen Stock Exchange|.KQ|South Korea|KOSDAQ|
-|.DU|Germany|Dusseldorf Stock Exchange|.MC|Spain|Madrid SE C.A.T.S.|
-|.F|Germany|Frankfurt Stock Exchange|.SAU|Saudi Arabia|Saudi Stock Exchange (Tadawul)|
-|.HM|Germany|Hamburg Stock Exchange|.ST|Sweden|Nasdaq OMX Stockholm|
-|.HA|Germany|Hanover Stock Exchange|.SW|Switzerland|Swiss Exchange (SIX)|
-|.MU|Germany|Munich Stock Exchange|.TWO|Taiwan|Taiwan OTC Exchange|
-|.SG|Germany|Stuttgart Stock Exchange|.TW|Taiwan|Taiwan Stock Exchange (TWSE)|
-|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand|Stock Exchange of Thailand (SET)|
-|.AT|Greece|Athens Stock Exchange (ATHEX)|.IS|Turkey|Borsa İstanbul|
-|.HK|Hong Kong|Hong Kong Stock Exchange (HKEX)|.L|United Kingdom|London Stock Exchange|
-|.BD|Hungary|Budapest Stock Exchange|.IL|United Kingdom|London Stock Exchange|
-|.IC|Iceland|Nasdaq OMX Iceland|.CR|Venezuela|Caracas Stock Exchange|
-|.BO|India|Bombay Stock Exchange|
+|.NX|France|Euronext|.SI|Singapore|Singapore (SGX)|
+|.PA|France|Euronext Paris|.JO|South Africa|Johannesburg|
+|.BE|Germany|Berlin|.KS|South Korea|Korea|
+|.BM|Germany|Bremen|.KQ|South Korea|KOSDAQ|
+|.DU|Germany|Dusseldorf|.MC|Spain|Madrid SE C.A.T.S.|
+|.F|Germany|Frankfurt|.SAU|Saudi Arabia|Saudi (Tadawul)|
+|.HM|Germany|Hamburg|.ST|Sweden|Nasdaq OMX Stockholm|
+|.HA|Germany|Hanover|.SW|Switzerland|Swiss Exchange (SIX)|
+|.MU|Germany|Munich|.TWO|Taiwan|Taiwan OTC Exchange|
+|.SG|Germany|Stuttgart|.TW|Taiwan|Taiwan (TWSE)|
+|.DE|Germany|Deutsche Boerse XETRA|.BK|Thailand of Thailand (SET)|
+|.AT|Greece|Athens (ATHEX)|.IS|Turkey|Borsa İstanbul|
+|.HK|Hong Kong|Hong Kong (HKEX)|.L|United Kingdom|London|
+|.BD|Hungary|Budapest|.IL|United Kingdom|London|
+|.IC|Iceland|Nasdaq OMX Iceland|.CR|Venezuela|Caracas|
+|.BO|India|Bombay|
 
 
 
