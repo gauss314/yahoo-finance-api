@@ -25,7 +25,7 @@ For Laravel 5, Symfony and any PHP project and framework with a composer.json fi
 <?php
 
 // Instance Object
-$yf = new \gauss314\yahoo_finance\YF();
+$yf = new \floda\yahoo_finance\YF();
 
 /*
 ******************************************************************************************************************
@@ -34,73 +34,8 @@ $yf = new \gauss314\yahoo_finance\YF();
 */
 $symbol ="TRAN.BA";       //tickers with no .XX, API will return US stock market ticker  
                           //for example: $symbol="AAPL";
-
-                          /*
-                          For another countries, you can use for example:
-                              .BA -> Argentina -> Buenos Aires Stock Exchange (BYMA)
-                              .VI -> Austria -> Vienna Stock Exchange
-                              .AX -> Australia -> Australian Stock Exchange (ASX)
-                              .BR -> Belgium -> Euronext Brussels
-                              .SA -> Brazil -> Sao Paolo Stock Exchange (BOVESPA)
-                              .CN -> Canada -> Canadian Securities Exchange
-                              .NE -> Canada -> NEO Exchange
-                              .TO -> Canada -> Toronto Stock Exchange (TSX)
-                              .V  -> Canada -> TSX Venture Exchange (TSXV)
-                              .SN -> Chile -> Santiago Stock Exchange
-                              .SS -> China -> Shanghai Stock Exchange
-                              .SZ -> China -> Shenzhen Stock Exchange
-                              .PR -> Czech Republic -> Prague Stock Exchange Index
-                              .CO -> Denmark -> Nasdaq OMX Copenhagen
-                              .CA -> Egypt -> Egyptian Exchange Index (EGID)
-                              .TL -> Estonia -> Nasdaq OMX Tallinn
-                              .HE -> Finland -> Nasdaq OMX Helsinki
-                              .NX -> France -> Euronext
-                              .PA -> France -> Euronext Paris
-                              .BE -> Germany -> Berlin Stock Exchange
-                              .BM -> Germany -> Bremen Stock Exchange
-                              .DU -> Germany -> Dusseldorf Stock Exchange
-                              .F  -> Germany -> Frankfurt Stock Exchange
-                              .HM -> Germany -> Hamburg Stock Exchange
-                              .HA -> Germany -> Hanover Stock Exchange
-                              .MU -> Germany -> Munich Stock Exchange
-                              .SG -> Germany -> Stuttgart Stock Exchange
-                              .DE -> Germany -> Deutsche Boerse XETRA
-                              .AT -> Greece -> Athens Stock Exchange (ATHEX)
-                              .HK -> Hong Kong -> Hong Kong Stock Exchange (HKEX)
-                              .BD -> Hungary -> Budapest Stock Exchange
-                              .IC -> Iceland -> Nasdaq OMX Iceland
-                              .BO -> India -> Bombay Stock Exchange
-                              .NS -> India -> National Stock Exchange of India
-                              .JK -> Indonesia -> Indonesia Stock Exchange (IDX)
-                              .IR -> Ireland -> Euronext Dublin
-                              .TA -> Israel -> Tel Aviv Stock Exchange
-                              .TI -> Italy -> EuroTLX
-                              .MI -> Italy -> Italian Stock Exchange
-                              .T  -> Japan -> Tokyo Stock Exchange
-                              .RG -> Latvia -> Nasdaq OMX Riga
-                              .VS -> Lithuania -> Nasdaq OMX Vilnius
-                              .KL -> Malaysia -> Malaysian Stock Exchange
-                              .MX -> Mexico -> Mexico Stock Exchange (BMV)
-                              .AS -> Netherlands -> Euronext Amsterdam
-                              .NZ -> New Zealand -> New Zealand Stock Exchange (NZX)
-                              .OL -> Norway -> Oslo Stock Exchange
-                              .LS -> Portugal -> Euronext Lisbon
-                              .QA -> Qatar -> Qatar Stock Exchange
-                              .ME -> Russia -> Moscow Exchange (MOEX)
-                              .SI -> Singapore -> Singapore Stock Exchange (SGX)
-                              .JO -> South Africa -> Johannesburg Stock Exchange
-                              .KS -> South Korea -> Korea Stock Exchange
-                              .KQ -> South Korea -> KOSDAQ
-                              .MC -> Spain -> Madrid SE C.A.T.S.
-                              .ST -> Sweden -> Nasdaq OMX Stockholm
-                              .SW -> Switzerland -> Swiss Exchange (SIX)
-                              .TW -> Taiwan -> Taiwan Stock Exchange (TWSE)
-                              .BK -> Thailand -> Stock Exchange of Thailand (SET)
-                              .IS -> Turkey -> Borsa İstanbul
-                              .L  -> United Kingdom -> London Stock Exchange
-                              .IL -> United Kingdom -> London Stock Exchange
-                              .CR -> Venezuela -> Caracas Stock Exchange
-                          */
+                          // For another countries, you can use for example:
+                          // .BA -> Argentina -> Buenos Aires Stock Exchange (BYMA)
 
 $time_ago = "3 months";   //you can use xx days, xx weeks, xx months, xx years, etc
 
@@ -136,6 +71,82 @@ Array
 */
 
 
+<table>
+  <tr>
+    <td>
+    .BA -> Argentina -> Buenos Aires Stock Exchange (BYMA)
+    .VI -> Austria -> Vienna Stock Exchange
+    .AX -> Australia -> Australian Stock Exchange (ASX)
+    .BR -> Belgium -> Euronext Brussels
+    .SA -> Brazil -> Sao Paolo Stock Exchange (BOVESPA)
+    .CN -> Canada -> Canadian Securities Exchange
+    .NE -> Canada -> NEO Exchange
+    .TO -> Canada -> Toronto Stock Exchange (TSX)
+    .V  -> Canada -> TSX Venture Exchange (TSXV)
+    .SN -> Chile -> Santiago Stock Exchange
+    .SS -> China -> Shanghai Stock Exchange
+    .SZ -> China -> Shenzhen Stock Exchange
+    .PR -> Czech Republic -> Prague Stock Exchange Index
+    .CO -> Denmark -> Nasdaq OMX Copenhagen
+    .CA -> Egypt -> Egyptian Exchange Index (EGID)
+    .TL -> Estonia -> Nasdaq OMX Tallinn
+    .HE -> Finland -> Nasdaq OMX Helsinki
+    .NX -> France -> Euronext
+    .PA -> France -> Euronext Paris
+    .BE -> Germany -> Berlin Stock Exchange
+    .BM -> Germany -> Bremen Stock Exchange
+    </td>
+
+    <td>
+    .DU -> Germany -> Dusseldorf Stock Exchange
+    .F  -> Germany -> Frankfurt Stock Exchange
+    .HM -> Germany -> Hamburg Stock Exchange
+    .HA -> Germany -> Hanover Stock Exchange
+    .MU -> Germany -> Munich Stock Exchange
+    .SG -> Germany -> Stuttgart Stock Exchange
+    .DE -> Germany -> Deutsche Boerse XETRA
+    .AT -> Greece -> Athens Stock Exchange (ATHEX)
+    .HK -> Hong Kong -> Hong Kong Stock Exchange (HKEX)
+    .BD -> Hungary -> Budapest Stock Exchange
+    .IC -> Iceland -> Nasdaq OMX Iceland
+    .BO -> India -> Bombay Stock Exchange
+    .NS -> India -> National Stock Exchange of India
+    .JK -> Indonesia -> Indonesia Stock Exchange (IDX)
+    .IR -> Ireland -> Euronext Dublin
+    .TA -> Israel -> Tel Aviv Stock Exchange
+    .TI -> Italy -> EuroTLX
+    .MI -> Italy -> Italian Stock Exchange
+    .T  -> Japan -> Tokyo Stock Exchange
+    .RG -> Latvia -> Nasdaq OMX Riga
+    .VS -> Lithuania -> Nasdaq OMX Vilnius
+    .KL -> Malaysia -> Malaysian Stock Exchange
+    .MX -> Mexico -> Mexico Stock Exchange (BMV)
+    .AS -> Netherlands -> Euronext Amsterdam
+    .NZ -> New Zealand -> New Zealand Stock Exchange (NZX)
+    .OL -> Norway -> Oslo Stock Exchange
+    .LS -> Portugal -> Euronext Lisbon
+    .QA -> Qatar -> Qatar Stock Exchange
+    .ME -> Russia -> Moscow Exchange (MOEX)
+    .SI -> Singapore -> Singapore Stock Exchange (SGX)
+    .JO -> South Africa -> Johannesburg Stock Exchange
+    .KS -> South Korea -> Korea Stock Exchange
+    .KQ -> South Korea -> KOSDAQ
+    .MC -> Spain -> Madrid SE C.A.T.S.
+    .ST -> Sweden -> Nasdaq OMX Stockholm
+    .SW -> Switzerland -> Swiss Exchange (SIX)
+    .TW -> Taiwan -> Taiwan Stock Exchange (TWSE)
+    .BK -> Thailand -> Stock Exchange of Thailand (SET)
+    .IS -> Turkey -> Borsa İstanbul
+    .L  -> United Kingdom -> London Stock Exchange
+    .IL -> United Kingdom -> London Stock Exchange
+    .CR -> Venezuela -> Caracas Stock Exchange
+    </td>
+  </tr>
+</table>
+
+
+```php
+<?php
 /*
 ******************************************************************************************************************
             ------------------ ------------------ GET FOREX PAIRS ------------------ ------------------
