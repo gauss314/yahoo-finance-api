@@ -77,8 +77,8 @@ Array
 
 | Sufix     | Country     | City     | Sufix     | Country     | City     |
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
-|.BA|Argentina|Buenos Aires (BYMA)|.NS|India|National of India|
-|.VI|Austria|Vienna|.JK|Indonesia|Indonesia (IDX)|
+|<sub>.BA</sub>|<sub>Argentina</sub>|<sub>Buenos Aires (BYMA)</sub>|<sub>.NS</sub>|<sub>India</sub>|<sub>National of India</sub>|
+|<sub>.VI</sub>|<sub>Austria</sub>|<sub>Vienna</sub>|<sub>.JK</sub>|<sub>Indonesia</sub>|<sub>Indonesia (IDX)</sub>|
 |.AX|Australia|Australian (ASX)|.IR|Ireland|Euronext Dublin|
 |.BR|Belgium|Euronext Brussels|.TA|Israel|Tel Aviv|
 |.SA|Brazil|Sao Paolo (BOVESPA)|.TI|Italy|EuroTLX|
@@ -119,8 +119,13 @@ Array
 ```php
 <?php
 
+// Instance Object
+$yf = new \floda\yahoo_finance\YF();
+
+//Params
 $currency_1="USD";
 $currency_2="ARS";
+
 $fx = $yf->getFX($currency_1,$currency_2);
 
 /*
@@ -147,7 +152,12 @@ Array
 ```php
 <?php
 
+// Instance Object
+$yf = new \floda\yahoo_finance\YF();
+
+//Params
 $symbol = "YPF";
+
 $quote = $yf->getQuote($symbol);
 
 /*
@@ -218,7 +228,12 @@ Array
 ```php
 <?php
 
+// Instance Object
+$yf = new \floda\yahoo_finance\YF();
+
+//Params
 $symbol="YPF";
+
 $expirations = $yf->getExpirations($symbol);
 /*
 Array
@@ -252,7 +267,12 @@ Array
 ```php
 <?php
 
+// Instance Object
+$yf = new \floda\yahoo_finance\YF();
+
+//Params
 $symbol="AAPL";
+
 $expirations = $yf->getExpirations($symbol);
 $contracts = $yf->getContracts($symbol,$expirations[0]['unix']);
 
