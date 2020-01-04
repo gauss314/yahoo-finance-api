@@ -12,7 +12,7 @@ Since YQL APIs have been discontinued in November 2017, this client is using non
 # Installation
 
 ```shell
-$ composer require "gauss314/yahoo-finance-api"
+$ composer require "floda/yahoo_finance"
 ```
 <br>
 
