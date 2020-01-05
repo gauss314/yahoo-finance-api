@@ -19,9 +19,11 @@ $ composer require "floda/yahoo_finance"
 # Usage
 
 If your project has not an autoloder, just include once this line:
-´´´require_once __DIR__ . "/../vendor/autoload.php";
+```php
+require_once __DIR__ . "/../vendor/autoload.php";
 ´´´
-For Laravel 5, Symfony and any PHP project and framework with a composer.json file
+
+For Laravel 5, Symfony, just instance object and use functions 
 
 <br>
 
