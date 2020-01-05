@@ -3,7 +3,7 @@
 require_once __DIR__ . "/../vendor/autoload.php";
 
 // Instance Object
-$yf = new \gauss314\yahoo_finance\YF();
+$yf = new \floda\yahoo_finance\YF();
 
 /*
 **********************************************
